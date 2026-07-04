@@ -1,3 +1,3 @@
-# Identidad y Gorbernanza STS y credenciales temporales — GetSessionToken, AssumeRole con MFA obligatorio y duración de sesión limitada
+# Identidad y Gorbernanza Simulador de políticas IAM (Policy Simulator) y validación de políticas con IAM Access Analyzer
 
-La práctica esta [aquí](https://github.com/alvarolinarescabre/identidad-gobernanza-iam-sts/wiki)
+La práctica esta [aquí](https://github.com/alvarolinarescabre/identidad-gobernanza-simulador-iam/wiki)
